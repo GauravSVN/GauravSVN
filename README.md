@@ -1,4 +1,4 @@
-# GauravSVN
+# Gaurav Kumar 
 
 Software engineer focused on building reliable, maintainable software and delivering measurable value. I enjoy working across the stack to design APIs, implement user-facing features, and automate developer workflows.
 
